@@ -1,3 +1,0 @@
-# cookbook
-
-my first line
